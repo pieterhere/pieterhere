@@ -1,6 +1,5 @@
 👋 Hello I’m Pieter
 👀 3D arts, Webdev, Design and SelfDev
-🌱 Aspiring to be a full stack Django developer
 💚 Solutions for starting biss in SelfDev
 
 
